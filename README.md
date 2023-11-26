@@ -1,2 +1,3 @@
 # expense-tracker
-https://res.cloudinary.com/dcnivsuyf/image/upload/v1700988049/expense_qwid2a.png
+
+![image](https://github.com/venkateramanan2002/expense-tracker/assets/72510646/def6bebc-1271-44b4-954d-a85afac6d86f)
